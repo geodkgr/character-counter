@@ -1,3 +1,3 @@
 # character-counter
 
-This is a simple tool
+This is a responsive site.
