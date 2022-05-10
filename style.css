@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(218, 89, 89);
+}
+
+header {
+    text-align: center;
+    font-size: 3rem;
+    font-family: serif;
+}
+
+input {
+    font: 2em serif;
+    text-align: center;
+    margin-top: 6vh;
+    width: 30vw;
+    height: 6vh;
+}
+
+.site {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    margin-top: 8vh;
+    font: 3rem serif;
+    background-color: aqua;
+    padding: 3vw;
+}
+
+p {
+    margin-top: 8vh;
+    font: 2.5rem serif;
+}
+
+@media screen and (max-width: 414px) {
+    input {
+        font: 1.3rem serif;
+        width: 90vw;
+    }
+}
