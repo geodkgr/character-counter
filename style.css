@@ -28,6 +28,7 @@ button {
     font: 3rem serif;
     background-color: aqua;
     padding: 3vw;
+    cursor: pointer;
 }
 
 p {
